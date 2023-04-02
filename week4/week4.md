@@ -32,4 +32,4 @@ $$σ'(s)=σ(s)(1-σ(s))$$
 - **Kiểm tra độ chính xác.**
 
 
-Code được viết trong file week4.ipynb
+Code được viết trong file LogisticRegression.ipynb
